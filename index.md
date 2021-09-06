@@ -1,5 +1,5 @@
 # PERSONAL INFORMATION
-![Shunquan Tan's Profile](images/me.png)
+![Shunquan Tan's Profile](images/me.png) 
 
 **ASSOCIATE PROFESSOR, RESEARCH FELLOW**
 College of Computer Science and Software Engineering,
