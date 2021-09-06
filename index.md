@@ -1,4 +1,6 @@
 # PERSONAL INFORMATION
+![Shunquan Tan's Profile](images/me.png)
+
 **ASSOCIATE PROFESSOR, RESEARCH FELLOW**
 College of Computer Science and Software Engineering,
 Shenzhen University, Shenzhen, China
