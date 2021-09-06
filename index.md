@@ -1,13 +1,13 @@
-# SHUNQUAN TAN
+# PERSONAL INFORMATION
 **ASSOCIATE PROFESSOR, RESEARCH FELLOW**
 College of Computer Science and Software Engineering,
 Shenzhen University, Shenzhen, China
 E-mail: tansq@szu.edu.cn
 
-- **SPECIALIZATION**
+# SPECIALIZATION
 
   Multimedia information security, steganography and steganalysis, digital media forensics, deep machine learning, pattern recognition, AI security, IoT security.
-- **EDUCATION**
+# EDUCATION
 
   **July 2007	Ph.D in Computer Science**
   
@@ -17,22 +17,22 @@ E-mail: tansq@szu.edu.cn
   
   Department of Scientific Computing & Computer Engineering, Sun Yat-sen University, China.
       
- - **ACADEMIC SERVICES**
+ # ACADEMIC SERVICES
     1. Associate Editor of EURASIP Journal on Information Security;
     2. Co-organizer of APSIPA ASC 2015 special session “Multimedia Forensics and Security”;
     3. Member of Digital Media Forensics and Security Professional Committee of China Society of Image and Graphics.
- - **PROFESSIONAL RESEARCH EXPERIENCE**
+# PROFESSIONAL RESEARCH EXPERIENCE
     1. Associate Professor, and Research Fellow at College of Computer Science & Software Engineering, Shenzhen University, *2018-present*
     2. Associate Research Fellow at College of Computer Science & Software Engineering, Shenzhen University, *2016-2017*
     3. Lecturer at College of Computer Science & Software Engineering,Shenzhen University, *2007-2016*
     4. Visiting Scholar at New Jersey Institute of Technology, NJ, USA, *2005-2006*
- - **RESEARCH GRANTS**
+# RESEARCH GRANTS
  I served as the principal investigator on the following projects:
     1. Research on tensor-decompression-framework based deep learning information-hiding warfare, sponsored by National Natural Science Funds of China (Grant No. 61772349), 590,000 RMB yuan.
     2. Applications of Large-scaled Distributed Deep Learning Framework in Steganalysis, sponsored by National Natural Science Funds of China (Grant No. 61402295), 260,000 RMB yuan.
     3. Steganalysis of Contents-adaptive Steganography based on B-spline Fitting, sponsored by Foundation for Distinguished Young Talents in Higher Education of Guangdong, China (Grant No. 2012LYM_0117), 30,000 RMB yuan.
     4. Steganalysis based on Large-scaled Distributed Deep Learning Framework, sponsored by Fundamental Research Program of Shenzhen City, China (Grant No. JCYJ20140418182819173), 230,000 RMB yuan.
-- **JOURNAL PUBLICATIONS**
+# JOURNAL PUBLICATIONS
 1. X. Mo, S. Tan*, B. Li, J. Huang. MCTSteg: A Monte Carlo Tree Search-based Reinforcement Learning Framework for Universal Non-additive Steganography [J]. IEEE Transactions on Information Forensics and Security, 2021, Early Access （CCF A类期刊/中科院SCI一区）
 1. Q. Li, S. Chen, S. Tan*, B. Li, J. Huang. One-Class Double Compression Detection of Advanced Videos Based on Simple Gaussian Distribution Model [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2021, Early Access （中科院SCI一区/TOP期刊）
 1. S. Tan, W. Wu, Z. Shao, Q. Li, B. Li, J. Huang. CALPA-NET: Channel-pruning-assisted Deep Residual Network for Steganalysis of Digital Images  [J]. IEEE Transactions on Information Forensics and Security, 2021, 16: 131-146 （CCF A类期刊/中科院SCI一区）
@@ -50,7 +50,7 @@ E-mail: tansq@szu.edu.cn
 1. B. Li, T.-T. Ng, X. Li, S. Tan, J. Huang. Revealing the Trace of High-quality JPEG Compression through Quantization Noise Analysis [J]. IEEE Transactions on Information Forensics and Security. 2015 10(3): 558-573.（CCF A类期刊/中科院SCI一区）
 1. B. Li, S. Tan, M. Wang, J. Huang. Investigation on Cost Assignment in Spatial Image Steganography [J]. IEEE Transactions on Information Forensics and Security. 2014 9(8): 1264–1277.（CCF A类期刊/中科院SCI一区）
 1. S. Tan, B. Li. Targeted Steganalysis of Edge Adaptive Image Steganography Based on LSB Matching Revisited Using B-spline Fitting [J]. IEEE Signal Processing Letters. 2012, 19(6): 336-339.（CCF C类期刊/中科院SCI三区）
-- **CONFERENCE PUBLICATIONS**
+# CONFERENCE PUBLICATIONS
 1. X. Qin, S. Tan, W. Tang, B. Li, and J. Huang, “Image steganography based on iterative adversarial perturbations onto a synchronized directions sub-image,” in Proc. ICASSP, Toronto, ON, Canada, Jun. 2021, pp. 2705–2709.
 1. Q. Li, Z. Shao, S. Tan*, J. Zeng, and B. Li, “Non-structured Pruning for Deep-learning based Steganalytic Frameworks”, Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2019, Lanzhou, China, November, 18-21, 2019.
 1. L. Zhuo, S. Tan*, J. Zeng, B. Li, “Fake Colorized Image Detection with Channel-wise Convolution based Deep-learning Framework”, Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2018, Honolulu, Hawaii, USA, November, 12-15, 2018.
@@ -63,7 +63,7 @@ E-mail: tansq@szu.edu.cn
 1. S. Tan, B. Li, “Stacked Convolutional Auto-Encoders for Steganalysis of Digital Images”, in Proc. Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2014, Siem Reap, Cambodia, December 9-12, 2014.
 1.  S. Tan, B. Li, “Targeted Steganalysis of Adaptive Pixel-value Differencing Steganography”, in Proc. 2012 IEEE International Conference on Image Processing. Orlando, Florida, USA, Oct. 2012.
 1. S. Tan, “Steganalysis of LSB Matching Revisited for Consecutive Pixels using B-spline Functions”, Lecture Notes in Computer Science. v7128 LNCS, Digital Watermarking - 10th International Workshop, IWDW 2011, 2012, pp 112-126.
-- **PATENTS**
+# PATENTS
 1. 中国专利，谭舜泉, 周子凌, 李斌, 黄继武, 一种针对空域富模型的图像隐写分析模型的攻击方法，已公开，2021.06.01，202110043110.6
 1. 中国专利，谭舜泉, 李秋实, 陈盛达, 李斌, 黄继武, 一种视频重压缩检测方法、终端设备及存储介质，已公开，2021.05.11，202011619108.0
 1. 中国专利，谭舜泉, 陈奕邻, 李斌, 黄继武, 一种图像安全取证模型生成方法、取证方法及电子设备，已公开，2021.05.07，202110043628.X
