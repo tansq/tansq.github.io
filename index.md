@@ -11,10 +11,11 @@ E-mail: tansq@szu.edu.cn
 
   **July 2007	Ph.D in Computer Science**
   
-      Department of Computer Science, Sun Yat-sen University, China.
+  Department of Computer Science, Sun Yat-sen University, China.
+  
   **July 2002	B.S. in Computational Mathematics**
   
-      Department of Scientific Computing & Computer Engineering, Sun Yat-sen University, China.
+  Department of Scientific Computing & Computer Engineering, Sun Yat-sen University, China.
       
  - **ACADEMIC SERVICES**
     1. Associate Editor of EURASIP Journal on Information Security;
