@@ -5,7 +5,7 @@
 **Professor, Faculty of Engineering, Shenzhen MSU-BIT University**  
 **IEEE Senior Member | Deputy Director, Shenzhen Key Laboratory of Media Security**
 
-- [Google Scholar](https://scholar.google.com/citations?user=WrKuu14AAAAJ)
+- [Google Scholar](https://scholar.google.com.hk/citations?user=WrKuu14AAAAJ)
 - [GitHub](https://github.com/tansq)
 
 ---
@@ -67,6 +67,6 @@ Multimedia Information Security, Steganography and Steganalysis, Digital Media F
 - X. Mo, S. Tan*, et al., “Poster: Query-efficient black-box attack for image forgery localization via reinforcement learning,” *ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2023, 3552–3554
 - G. Li, B. Li, C. Chen, S. Tan, G. Qiu, “Learning General Gaussian Mixture Model with Integral Cosine Similarity,” *International Joint Conference on Artificial Intelligence (IJCAI)*, 2022, 3201–3207
 
-[Full publication list on Google Scholar](https://scholar.google.com/citations?user=WrKuu14AAAAJ)
+[Full publication list on Google Scholar](https://scholar.google.com.hk/citations?user=WrKuu14AAAAJ)
 
 ---
